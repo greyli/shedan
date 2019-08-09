@@ -6,7 +6,7 @@ Python 中隐藏的彩蛋和笑话列表。
 
 ![Cute Wabbit](./cute-wabbit.jpg)
 
-A little girl goes into a pet show and asks for a wabbit. The shop keeper looks down at her, smiles and says:
+A little girl goes into a pet shop and asks for a wabbit. The shop keeper looks down at her, smiles and says:
 
 "Would you like a lovely fluffy little white rabbit, or a cutesy wootesly little brown rabbit?"
 
