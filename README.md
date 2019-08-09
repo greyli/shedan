@@ -153,6 +153,10 @@ True
 >>> 我的英文名 = 'Grey Li'
 >>> 我的英文名
 'Grey Li'
+
+>>> import webbrowser
+>>> 我的网站 = 'http://greyli.com'
+>>> webbrowser.open(我的网站)
 ```
 
 Note：Python 3 中支持使用 Unicode 字符作为变量名。尽管如此，使用非英文字符作为变量名可能不是一个好主意，不过它确实会让处理科学公式的工作变得更有意思。
