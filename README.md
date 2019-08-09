@@ -12,7 +12,7 @@ A little girl goes into a pet show and asks for a wabbit. The shop keeper looks 
 
 "Actually", says the little girl, "I don't think my python would notice."
 
-—Nick Leaton, Wed, 04 Dec 1996, [Python Humor](https://www.python.org/doc/humor/)
+— Nick Leaton, Wed, 04 Dec 1996, [Python Humor](https://www.python.org/doc/humor/)
 
 
 ### 1. Hello World
@@ -236,14 +236,15 @@ class code(object)
  |  Create a code object.  Not for the faint of heart.                                    
  |                                                                                        
  |  Methods defined here:                                                                 
- |                                                                                                                                       
+ |
+ 
  ...
  ```
 
-## 贡献
+## 添加更多
 
 欢迎创建 PR 来添加更多关于 Python 的彩蛋和玩笑。
 
 ## License
 
-翻译自 https://github.com/OrkoHunter/python-easter-eggs 项目，原项目没有许可协议，已通过邮件申请获得翻译和发布许可。禁止商业转载。
+原始版本翻译自 https://github.com/OrkoHunter/python-easter-eggs 项目，原项目没有许可协议，已通过邮件申请获得翻译和发布许可。禁止商业转载。
