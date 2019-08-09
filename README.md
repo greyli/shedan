@@ -4,6 +4,17 @@ Python 中隐藏的彩蛋和笑话列表。
 
 > Python 比你想象中的更有趣。
 
+![Cute Wabbit](./cute-wabbit.jpg)
+
+A little girl goes into a pet show and asks for a wabbit. The shop keeper looks down at her, smiles and says:
+
+"Would you like a lovely fluffy little white rabbit, or a cutesy wootesly little brown rabbit?"
+
+"Actually", says the little girl, "I don't think my python would notice."
+
+—Nick Leaton, Wed, 04 Dec 1996, [Python Humor](https://www.python.org/doc/humor/)
+
+
 ### 1. Hello World
 
 ```py
